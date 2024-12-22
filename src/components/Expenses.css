@@ -1,0 +1,12 @@
+.expenses {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+  }
+  .expenseItemsContainer {
+    display: flex; 
+    flex-wrap: wrap; 
+    justify-content: space-evenly;
+
+  }
